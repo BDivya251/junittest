@@ -1,0 +1,7 @@
+com\app\testing\Shapes.class
+com\app\testing\calC.class
+com\app\testing\PaymentService.class
+com\app\testing\SortingArrays.class
+com\app\testing\OrderService.class
+com\app\testing\StockRepository.class
+com\app\testing\PerformanceTesting.class
